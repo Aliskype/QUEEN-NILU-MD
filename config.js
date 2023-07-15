@@ -12,14 +12,14 @@ global.PASSWORD = 'janith'  // Put The Password Get From Yt video  https://youtu
 
 // PUT YOUR SESSION ID HERE 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;du4jTAwI#pMd0ikMuFxSMh4DsnCj5zpMfQQ4iYF_x3lnhLOgsfxc' // PUT your session ID BY scan QR 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '923035073442'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Poojana_X'
 
 global.OPENAI_API_KEY = "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"
 
@@ -30,7 +30,7 @@ global.OPENAI_API_KEY = "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"
 
 global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
  
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@Pooja 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
@@ -60,7 +60,7 @@ global.AUTO_REPLY = true
 
 global.ANTI_BAD_ACTION = false
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/' 
+global.GROUP_LINK = 'https://chat.whatsapp.com/JlBWRV6TPuB4o7EP42jReY' 
 
 
 module.exports = {
